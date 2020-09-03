@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116067878174",
+    "firebase_url": "https://prime-cable.firebaseio.com",
+    "project_id": "prime-cable",
+    "storage_bucket": "prime-cable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116067878174:android:9ef0c412b362bbb97e350f",
+        "android_client_info": {
+          "package_name": "com.prime.primecable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116067878174-rjth7nd8khkrbut62r3clvsp58v5dah4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzplqVg6adLO0FKydpzKWBctsqE9bdL8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116067878174-rjth7nd8khkrbut62r3clvsp58v5dah4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
