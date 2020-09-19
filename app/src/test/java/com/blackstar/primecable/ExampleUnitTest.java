@@ -1,4 +1,4 @@
-package com.prime.primecable;
+package com.blackstar.primecable;
 
 import org.junit.Test;
 
